@@ -1,8 +1,8 @@
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/lib/CMakeFiles/rary.dir
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/exe/CMakeFiles/exe.dir
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/exe/CMakeFiles/edit_cache.dir
-/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/exe/CMakeFiles/rebuild_cache.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/lib/CMakeFiles/rary.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/exe/CMakeFiles/exe.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/exe/CMakeFiles/edit_cache.dir
+/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/exe/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
-# Install script for directory: /media/kono/HDD/Programming/shared-lib-linking-template
+# Install script for directory: /media/kono/HDD/Programming/sodll-link-template
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/lib/cmake_install.cmake")
+  include("/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/lib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/exe/cmake_install.cmake")
+  include("/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/exe/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/kono/HDD/Programming/shared-lib-linking-template/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/kono/HDD/Programming/sodll-link-template/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

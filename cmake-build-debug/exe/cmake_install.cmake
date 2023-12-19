@@ -1,4 +1,4 @@
-# Install script for directory: /media/kono/HDD/Programming/shared-lib-linking-template/exe
+# Install script for directory: /media/kono/HDD/Programming/sodll-link-template/exe
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
