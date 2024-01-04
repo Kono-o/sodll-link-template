@@ -9,3 +9,4 @@
 #endif
 
 LIBRARY_API bool linkCheck();
+LIBRARY_API int addNum(int x,int y);
