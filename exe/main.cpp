@@ -14,6 +14,6 @@ int main()
     std::cin >> a;
     std::cin >> b;
 
-    std::cout << "addition " << mathOp(a,b,true) << "\n";
-    std::cout << "multiplication " << mathOp(a,b,false) << "\n";
+    std::cout << "add:" << mathOp(a,b,true) << "\n";
+    std::cout << "mult:" << mathOp(a,b,false) << "\n";
 }
