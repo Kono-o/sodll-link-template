@@ -4,7 +4,10 @@ bool linkCheck()
 {
     return true;
 }
-int addNum(int x, int y)
+int mathOp(int x, int y, bool b)
 {
-    return(x + y);
+    if (b)
+        return(x + y);
+    else
+        return(x * y);
 }
