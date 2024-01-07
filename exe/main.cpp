@@ -15,6 +15,6 @@ int main()
     std::cin >> b;
 
     std::cout << "add:" << mathOp(a,b,1) << "\n";
-    std::cout << "mult:" << mathOp(a,b,2) << "\n";
-    std::cout << "subs:" << mathOp(a,b,3) << "\n";
+    std::cout << "subs:" << mathOp(a,b,2) << "\n";
+    std::cout << "mult:" << mathOp(a,b,3) << "\n";
 }
